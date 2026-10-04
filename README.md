@@ -3,10 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://my-self-eta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/salvatoreom/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:omparihar0001@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=salvatoreOm&label=views&color=f78166&style=for-the-badge" alt="Profile views" />
+  <a href="https://my-self-eta.vercel.app/"><img src="assets/btn-portfolio.svg" height="36" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/salvatoreom/"><img src="assets/btn-linkedin.svg" height="36" alt="LinkedIn" /></a>
+  <a href="mailto:omparihar0001@gmail.com"><img src="assets/btn-email.svg" height="36" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=salvatoreOm&label=Profile%20views&color=f78166&style=flat-square" alt="Profile views" />
 </p>
 
 <br />
