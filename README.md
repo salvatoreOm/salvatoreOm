@@ -63,39 +63,33 @@ func main() {
 <!-- ───────────────────────── STACK ───────────────────────── -->
 ## `$ ls ~/stack`
 
-<table>
-  <tr>
-    <td width="160"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=go,py,ts,js&theme=dark" alt="Go, Python, TypeScript, JavaScript" /></td>
-  </tr>
-  <tr>
-    <td><b>Frameworks</b></td>
-    <td><img src="https://cdn.simpleicons.org/gin/00ADD8" width="44" height="44" alt="Gin" title="Gin" /></td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL, SQL" /></td>
-  </tr>
-  <tr>
-    <td><b>Messaging</b></td>
-    <td><img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" alt="Kafka, RabbitMQ" /></td>
-  </tr>
-  <tr>
-    <td><b>Containers</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" />
-      <img src="https://cdn.simpleicons.org/podman/892CA0" width="44" height="44" alt="Podman" title="Podman" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="AWS, Azure" /></td>
-  </tr>
-  <tr>
-    <td><b>Tooling</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Git, GitHub, Linux, VS Code" /></td>
-  </tr>
-</table>
+<p align="center"><sub><b>LANGUAGES</b></sub><br />
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go" /></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python" /></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript" /></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript" /></code>
+</p>
+
+<p align="center"><sub><b>BACKEND</b></sub><br />
+  <code><img height="50" src="https://cdn.simpleicons.org/gin/00ADD8" alt="Gin" title="Gin" /></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL" /></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="Kafka" title="Kafka" /></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" alt="RabbitMQ" title="RabbitMQ" /></code>
+</p>
+
+<p align="center"><sub><b>CONTAINERS &amp; CLOUD</b></sub><br />
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker" /></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/podman.png" alt="Podman" title="Podman" /></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS" /></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Azure" title="Azure" /></code>
+</p>
+
+<p align="center"><sub><b>TOOLING</b></sub><br />
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git" /></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub" /></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux" /></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" title="Bash" /></code>
+</p>
 
 <br />
 
