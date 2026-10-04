@@ -8,10 +8,6 @@
   <a href="mailto:omparihar0001@gmail.com"><img src="assets/btn-email.svg" height="36" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salvatoreOm&label=Profile%20views&color=f78166&style=flat-square" alt="Profile views" />
-</p>
-
 <br />
 
 ## About
