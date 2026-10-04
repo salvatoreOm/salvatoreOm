@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="64" viewBox="0 0 840 64" role="img" aria-label="Open to work: looking for Software Engineer and AI Engineer roles, new grad or fresher. View resume.">
+<title>Open to work — view résumé</title>
+<defs>
+  <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f78166"/><stop offset="1" stop-color="#ffa657"/></linearGradient>
+  <linearGradient id="wash" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3fb950" stop-opacity=".12"/><stop offset=".45" stop-color="#3fb950" stop-opacity="0"/></linearGradient>
+  <style>
+    .pulse{transform-origin:34px 32px;animation:p 1.8s ease-out infinite}
+    @keyframes p{0%{transform:scale(1);opacity:.6}100%{transform:scale(2.6);opacity:0}}
+  </style>
+</defs>
+<rect x=".5" y=".5" width="839" height="63" rx="14" fill="#161b22" stroke="#2ea04366"/>
+<rect x=".5" y=".5" width="839" height="63" rx="14" fill="url(#wash)"/>
+<circle class="pulse" cx="34" cy="32" r="6" fill="#3fb950"/>
+<circle cx="34" cy="32" r="6" fill="#3fb950"/>
+<text x="54" y="28" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" font-weight="600" letter-spacing="1.4" fill="#3fb950">OPEN TO WORK</text>
+<text x="54" y="47" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#e6edf3">Looking for <tspan font-weight="700">Software Engineer</tspan> / <tspan font-weight="700">AI Engineer</tspan> roles <tspan fill="#8b949e">· New grad &amp; fresher</tspan></text>
+<rect x="670" y="14" width="154" height="36" rx="9" fill="url(#acc)"/>
+<g transform="translate(685 23)" fill="none" stroke="#0d1117" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M10 1H4a1.6 1.6 0 0 0-1.6 1.6v12.8A1.6 1.6 0 0 0 4 17h10a1.6 1.6 0 0 0 1.6-1.6V6.6z"/><path d="M10 1v5.6h5.6M6 10.5h6M6 13.5h4"/>
+</g>
+<text x="712" y="37" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#0d1117">View résumé →</text>
+</svg>

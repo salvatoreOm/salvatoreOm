@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="https://drive.google.com/file/d/1Ekw61-SLptulp-aro2KAOrDTU44lKVcI/view"><img src="assets/open-to-work.svg" width="100%" alt="Open to work — looking for Software Engineer / AI Engineer roles (new grad &amp; fresher). View résumé." /></a>
+</p>
+
+<p align="center">
   <img src="assets/header.svg" width="100%" alt="Om Parihar — Software Developer, Open Source Contributor, Entrepreneur" />
 </p>
 
@@ -6,6 +10,7 @@
   <a href="https://my-self-eta.vercel.app/"><img src="assets/btn-portfolio.svg" height="36" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/salvatoreom/"><img src="assets/btn-linkedin.svg" height="36" alt="LinkedIn" /></a>
   <a href="mailto:omparihar0001@gmail.com"><img src="assets/btn-email.svg" height="36" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1Ekw61-SLptulp-aro2KAOrDTU44lKVcI/view"><img src="assets/btn-resume.svg" height="36" alt="Résumé" /></a>
 </p>
 
 <br />
