@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a backend-leaning software developer based in **Gurugram, India**. I've interned as a software engineer at **INDmoney** and **Tally Solutions**, and founded **Zhecker Technologies**. Most of my work lives in **Go** — services that talk to **PostgreSQL**, stream through **Kafka** and **RabbitMQ**, ship in containers, and run on **AWS** and **Azure**.
+I'm a backend-leaning software developer based in **Gurugram, India**. I've interned as a software engineer at **INDmoney** and **Tally Solutions**, and founded **Zhecker Technologies**. Most of my work is in **Go** and **Python** — services that talk to **PostgreSQL**, stream through **Kafka** and **RabbitMQ**, ship in containers, and run on **AWS** and **Azure**.
 
 <table>
   <tr>
