@@ -72,14 +72,15 @@
   <img src="https://streak-stats.demolab.com?user=salvatoreOm&theme=tokyonight&hide_border=true" alt="GitHub streak & total contributions" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salvatoreOm&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
+## 🐍 Contribution Snake
 
-## 🏆 Trophies
-
+<!-- Generated daily by .github/workflows/snake.yml into the `output` branch -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salvatoreOm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salvatoreOm/salvatoreOm/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salvatoreOm/salvatoreOm/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/salvatoreOm/salvatoreOm/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
